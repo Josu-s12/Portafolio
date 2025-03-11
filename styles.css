@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+body{
+    margin: 40px;
+    font-family: sans-serif;
+}
+
+.photo-me{
+    margin-left: auto;
+    width: 200px;
+    align-items: center;
+}
+
+img{
+    margin-top: 30px;
+}
+
+.proyectos p{
+    margin-left: 5%;
+}
+
+.contacto h4{
+    margin-left: 15px;
+}
+.contacto ul{
+    margin-left: 15px;
+}
